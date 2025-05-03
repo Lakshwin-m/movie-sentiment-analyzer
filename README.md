@@ -1,6 +1,6 @@
 # Movie Sentiment Analyzer
 
-**Movie Sentiment Analyzer** is a desktop application built with Python and Tkinter that analyzes the sentiment of movie-related text. Using NLP techniques from NLTK and spaCy, the app processes user input to classify sentiment (positive, negative, or neutral) and provides visual insights using Matplotlib. It also extracts named entities from the text for further analysis, making it a useful tool for analyzing movie reviews, summaries, or any movie-related content.
+**Movie Sentiment Analyzer** is a desktop application built with Python and Tkinter that analyzes the sentiment of movie-related text. Using NLP techniques from NLTK and spaCy, the app processes user input to classify sentiment (positive, negative) and provides visual insights using Matplotlib. It also extracts named entities from the text for further analysis, making it a useful tool for analyzing movie reviews, summaries, or any movie-related content.
 
 ## Features
 - **Sentiment Analysis**: Classifies text as positive, negative, or neutral using VADER Sentiment Analysis.
