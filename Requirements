@@ -1,0 +1,8 @@
+#Requirements:
+nltk
+spacy
+matplotlib
+tkinter (pre-installed with Python)
+
+Download the spaCy model:
+python -m spacy download en_core_web_sm
