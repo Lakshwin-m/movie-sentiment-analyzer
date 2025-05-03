@@ -24,4 +24,4 @@ Follow the steps below to get the Movie Sentiment Analyzer up and running on you
 ### 1. Clone the repository
 Clone the repository to your local machine using the following command:
 ```bash
-git clone https://github.com/your-username/movie-sentiment-analyzer.git
+git clone https://github.com/lakshwin-m/movie-sentiment-analyzer.git
